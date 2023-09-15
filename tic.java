@@ -1,6 +1,6 @@
 //toplama ile win checkle + draw?
 //ayrı method ile toplayip ona gore bosluk ve wincon hesaplama
-// itctactoe by uzi & melso
+// itctactoe by devAm & melso
 
 
 import java.util.Scanner;
